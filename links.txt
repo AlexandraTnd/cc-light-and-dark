@@ -1,0 +1,14 @@
+Javascript - DOM manipulation: 
+https://journey.study/v2/learn/materials/pages/javascript/javascript-dom.md
+
+
+CSS color reference: 
+https://developer.mozilla.org/en-US/docs/Web/CSS/color
+
+
+Responsive classes: 
+https://getbootstrap.com/docs/5.0/layout/grid/#responsive-classes
+
+
+How to toggle class: 
+https://www.w3schools.com/howto/howto_js_toggle_class.asp
